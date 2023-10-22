@@ -1,1 +1,1 @@
-# geostats
+# Geostatistical Modelling
